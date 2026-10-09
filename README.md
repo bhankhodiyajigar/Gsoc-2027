@@ -1,16 +1,18 @@
-# GSoC 2027 Preparation
+# GSoC 2027 Preparation 🚀
 
-My journey toward becoming an open-source contributor for Google Summer of Code 2027.
-
-## Day 1: Python Practice
-
-- Find the largest number in a list.
-- Count even numbers in a list.
-- Count character frequencies in a string.
+This repository documents my journey toward becoming a strong open-source contributor and preparing for Google Summer of Code (GSoC) 2027.
 
 ## Goals
-
-- Improve Python and DSA skills.
-- Learn Git and GitHub.
-- Contribute to open-source projects.
+- Strengthen Python programming and DSA.
+- Learn Git, GitHub, and Linux.
+- Improve software development skills.
+- Contribute to real open-source projects.
 - Prepare for GSoC 2027.
+
+## Technologies
+- Python
+- Git & GitHub
+- Linux
+- Data Structures and Algorithms
+
+**Learning consistently. Contributing to open source. Growing as a developer.**
