@@ -1,0 +1,8 @@
+Today i learn how we commit and push some changes which is ouccured in some file 
+so for that i change my README.md and i add a line in README.md then i save it .
+now for updating it into our github reposatory -
+1.First we add changes by git add README.md -> this will shows us that wh which part of the file i modified .
+2.Then i commit this changes by git commit -m "Updating README.md"
+3.Push this into git repo by git push origin main
+4.Atlast, we chack status of our repo by git status
+
