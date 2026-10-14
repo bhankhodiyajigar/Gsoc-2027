@@ -16,3 +16,5 @@ This repository documents my journey toward becoming a strong open-source contri
 - Data Structures and Algorithms
 
 **Learning consistently. Contributing to open source. Growing as a developer.**
+Learning git and github for gsoc 2027
+
